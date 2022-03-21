@@ -103,9 +103,4 @@ public class Customer {
 	public void setAccountBalance(String accountBalance) {
 		this.accountBalance = accountBalance;
 	}
-	
-	
-	
-	
-	
 }
